@@ -18,7 +18,7 @@ public class Test {
 		double calculateNetSalary = calculator.calculateNetSalary(hourlyRate, hours);
 		String output4 = "----------\n ## PAYMENT INFORMATION ## \n \n Name: \t \t" + name + "\n Hourly rate: \t" + '$' + hourlyRate + "\n Hours worked: \t" + hours + "\n \n Salary before tax:\t" + '$' + calculateSalary + "\n Salary after tax:\t" + '$' + calculateNetSalary + "\n If you have any questions regarding your salary, contact Bob \n --------" ;
 		System.out.println(output4);
-		test1
+		
 		
 		
 		

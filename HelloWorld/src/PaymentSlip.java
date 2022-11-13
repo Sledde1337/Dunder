@@ -43,4 +43,3 @@ public class PaymentSlip {
 	}
 
 }
-test1
